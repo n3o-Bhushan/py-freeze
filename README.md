@@ -8,7 +8,7 @@ is limited to analysis purpose. So they struggle with the CLI commands or depend
 
 # Improvement
 
-I am yet to test this script just for venv, cause currently it pulls all the dependancies. 
+Works fine with the virtual env to pull the only dependancies for the project. Need to develop a complete module which will pull the dependancies for the project regardless the project is developed in virtual env or not.
 
 # Usage
 
