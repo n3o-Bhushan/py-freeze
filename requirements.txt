@@ -31,7 +31,7 @@ pytz==2017.2
 python-dateutil==2.6.0
 pyparsing==2.2.0
 pymc==2.3.6
-Pygments==2.2.0
+Pygments==2.7.4
 ptyprocess==0.5.1
 prompt-toolkit==1.0.14
 pip==9.0.1
