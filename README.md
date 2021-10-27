@@ -1,5 +1,5 @@
 # py-freeze
-A script to generate a requirements.txt file for you automatically. Good for users not familiar with CLI.
+A script to generate a lockedrequirements.txt file for you automatically. Good for users not familiar with CLI.
 
 # Idea
 
@@ -14,4 +14,4 @@ Works fine with the virtual env to pull the only dependancies for the project. N
 
 Write your script and once you are done and you feel like sharing your program with your folks, download run py-freeze.py in the same folder of your program with v-env turned on. 
 
-Voila! you will get he requirements.txt generated.
+Voila! you will get the locked requirements.txt generated.
