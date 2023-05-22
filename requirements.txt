@@ -23,7 +23,7 @@ scipy==1.0.0.dev0+16b0f19
 scikit-learn==0.19.dev0
 scandir==1.5
 rethinkdb==2.3.0.post6
-requests==2.20.0
+requests==2.31.0
 qtconsole==4.3.0
 pyzmq==16.0.2
 PyYAML==5.4
