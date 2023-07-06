@@ -19,7 +19,7 @@ singledispatch==3.4.0.3
 simplegeneric==0.8.1
 setuptools==65.5.1
 seaborn==0.7.1
-scipy==1.0.0.dev0+16b0f19
+scipy==1.10.0
 scikit-learn==0.19.dev0
 scandir==1.5
 rethinkdb==2.3.0.post6
