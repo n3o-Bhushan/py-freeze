@@ -34,7 +34,7 @@ pymc==2.3.6
 Pygments==2.7.4
 ptyprocess==0.5.1
 prompt-toolkit==1.0.14
-pip==21.1
+pip==23.3
 pickleshare==0.7.4
 pexpect==4.2.1
 patsy==0.4.1
